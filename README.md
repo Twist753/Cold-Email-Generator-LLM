@@ -1,1 +1,1 @@
-# Cold-Email-Generator-LLM-
+# Cold-Email-Generator-LLM
